@@ -1,0 +1,10 @@
+
+Olá,
+
+Por favor, quando for testar o exemplo, mude a senha do Banco de dados na conexao/conexao_bd.
+
+Sobre o arquivo de atualização, caso queira que eu faça um login para que o usuario tenha que informar o emai e senha 
+para fazer o update dos dados me informe que eu faço.
+
+Atenciosamente Henrique Costa.
+ 
